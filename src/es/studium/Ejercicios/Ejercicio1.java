@@ -16,8 +16,8 @@ public class Ejercicio1 implements WindowListener, ActionListener
 	// Variables y Objetos
 	Frame ventana = new Frame("Par / Impar");
 	TextField txtCalcular = new TextField(10);
-	Button btnBoton = new Button("Calcular");
-	Label lblCalcular = new Label("                    							                   ");
+	Button btnBoton = new Button("Calcular proceso");
+	Label lblCalcular = new Label("                    							                    ");
 
 	public Ejercicio1()
 	{
